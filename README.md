@@ -1,4 +1,4 @@
-# Segmentaci-n-RFM-de-Clientes-en-E-commerce-Olist-Brasil
+# Segmentación RFM de clientes del E-commerce Olist, Brasil
 ## Descripción del Proyecto
 
 Implementación de un modelo de analítica avanzada RFM (Recencia, Frecuencia, Monto Monetario) en Google Cloud Platform para segmentar una base comercial de +93,400 clientes del dataset público de e-commerce Olist Brazil.
