@@ -1,0 +1,1 @@
+# Segmentaci-n-RFM-de-Clientes-en-E-commerce-Olist-Brasil
