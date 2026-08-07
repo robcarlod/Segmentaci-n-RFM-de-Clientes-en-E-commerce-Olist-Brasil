@@ -23,19 +23,17 @@ El modelo calcula tres dimensiones por cliente:
 Cada dimensión se convierte en un score del 1 al 5 usando `NTILE(5)`, y luego se combinan con `CASE WHEN` para asignar el segmento final.
 
 ## Dashboard
-
 El dashboard final muestra:
 
 - KPIs ejecutivos: ventas totales, número de clientes, ticket promedio y recencia promedio
 - Distribución de clientes por segmento (gráfico de barras y torta)
 - Tabla comparativa de monto y recencia por segmento
 
-**Vista modo oscuro:**
-
-![Dashboard dark mode](assets/dashboard_dark.png)
+**Dashboards:**
+![Dashboard 1](assets/dashboard_dark.png)
+![Dashboard 2](assets/dashboard_dark.png)
 
 **Tabla de resultados en BigQuery:**
-
 ![BigQuery results](TablaResultadosBigQuery.png)
 
 
