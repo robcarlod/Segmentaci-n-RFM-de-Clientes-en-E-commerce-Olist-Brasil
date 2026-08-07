@@ -6,6 +6,7 @@ Implementación de un modelo de analítica avanzada RFM (Recencia, Frecuencia, M
 El objetivo fue automatizar la identificación de segmentos estratégicos de alto valor, habilitando decisiones de marketing basadas en datos reales.
 
 [Datos Crudos CSV]
+
       │
       ▼
 [Cloud Storage — Data Lake]
