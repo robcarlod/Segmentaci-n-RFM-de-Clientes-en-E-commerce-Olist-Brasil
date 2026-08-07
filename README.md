@@ -36,7 +36,7 @@ El dashboard final muestra:
 
 **Tabla de resultados en BigQuery:**
 
-![BigQuery results](assets/bigquery_table.png)
+![BigQuery results](Tabla de resultados en BigQuery.png)
 
 
 ## Insights de Negocio
