@@ -5,22 +5,11 @@ Implementación de un modelo de analítica avanzada RFM (Recencia, Frecuencia, M
 
 El objetivo fue automatizar la identificación de segmentos estratégicos de alto valor, habilitando decisiones de marketing basadas en datos reales.
 
+## Arquitectura del Pipeline
 [Datos Crudos CSV]
-
-      │
-      ▼
 [Cloud Storage — Data Lake]
-      │
-      ▼
 [BigQuery — Data Warehouse]
-      │  SQL: CTEs + Funciones de Ventana
-      │  Unificación de tablas (clientes, órdenes, pagos)
-      │  Cálculo de scores RFM con NTILE(5)
-      │  Clasificación en 8 segmentos con CASE WHEN
-      ▼
-[Tabla: clientes_segmentados_rfm]  →  93,357 filas
-      │
-      ▼
+[Tabla: clientes_segmentados_rfm] 
 [Looker Studio — Dashboard Ejecutivo]
 
 ## Lógica RFM en SQL
