@@ -30,8 +30,8 @@ El dashboard final muestra:
 - Tabla comparativa de monto y recencia por segmento
 
 **Dashboards:**
-![Dashboard 1](assets/dashboard_dark.png)
-![Dashboard 2](assets/dashboard_dark.png)
+![Dashboard 1](Dashboard1.png)
+![Dashboard 2](Dashboard2.png)
 
 **Tabla de resultados en BigQuery:**
 ![BigQuery results](TablaResultadosBigQuery.png)
