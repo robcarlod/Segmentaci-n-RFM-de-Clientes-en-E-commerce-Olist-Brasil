@@ -6,10 +6,10 @@ Implementación de un modelo de analítica avanzada RFM (Recencia, Frecuencia, M
 El objetivo fue automatizar la identificación de segmentos estratégicos de alto valor, habilitando decisiones de marketing basadas en datos reales.
 
 ## Arquitectura del Pipeline
-[Datos Crudos CSV]
-[Cloud Storage — Data Lake]
-[BigQuery — Data Warehouse]
-[Tabla: clientes_segmentados_rfm] 
+[Datos Crudos CSV] -->
+[Cloud Storage — Data Lake] -->
+[BigQuery — Data Warehouse] -->
+[Tabla: clientes_segmentados_rfm] --> 
 [Looker Studio — Dashboard Ejecutivo]
 
 ## Lógica RFM en SQL
